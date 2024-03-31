@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+  
+  cout<<"Adi Boi is here"<<endl;
   cout<<"Hello from Adi"<<endl;
   cout<<"Hello from Khyati"<<endl;
 
