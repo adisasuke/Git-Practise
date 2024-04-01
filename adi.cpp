@@ -6,7 +6,7 @@ using namespace std;
 #Adi is also here
 int main()
 {
-  
+  cout<<"I love you all"<<endl;  
   cout<<"Adi Boi is here"<<endl;
   cout<<"Hello from Adi"<<endl;
   cout<<"Hello from Khyati"<<endl;
