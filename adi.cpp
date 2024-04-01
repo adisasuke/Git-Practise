@@ -11,6 +11,6 @@ int main()
   cout<<"Hello from Adi"<<endl;
   cout<<"Hello from Khyati"<<endl;
   cout<<"Again some changes"<<endl;
-
+  cout<<"Kho gaye hum kahan"<<endl;
   return 0;
 }
